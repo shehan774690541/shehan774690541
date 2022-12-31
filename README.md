@@ -33,4 +33,4 @@
 
 
 <h3> My Qrcode</h3>
-<img src="qrcode.png" width="50%" align= center/>
+<img src="qrcode.png" width="50%" align="center"/>
