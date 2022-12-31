@@ -7,6 +7,9 @@
 <h3>OFFICIAL SILE</h3>
 <i><a href="http://gradientstudio.great-site.net/">http://gradientstudio.great-site.net/</a> </i>
 
+<h3>Mobile Phone</h3>
+<i><a href="tel:+94774690541">+94774690541</a> </i>
+
 <h3>You Tube</h3>
 <i><a href="https://www.youtube.com/@BugAntProgrammer">https://www.youtube.com/@BugAntProgrammer</a> </i>
 
