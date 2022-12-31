@@ -23,3 +23,8 @@
 <h3>Instagram</h3>
 <i><a href="https://instagram.com/bugant541">https://instagram.com/bugant541</a> </i>
 
+<h3>Discord Server</h3>
+<i><a href="https://discord.gg/nJZ6Z7Za">https://discord.gg/nJZ6Z7Za</a> </i>
+
+
+
