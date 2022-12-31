@@ -32,4 +32,5 @@
 <i><a href="https://discord.gg/nJZ6Z7Za">https://discord.gg/nJZ6Z7Za</a> </i>
 
 
-
+<h3> My Qrcode</h3>
+<img src="qrcode.png" width="50%" />
