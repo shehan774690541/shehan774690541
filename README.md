@@ -1,6 +1,6 @@
 <h1>Welcome To My Official GIT HUB Page</h1>
 
-<img src="317637292_682952430162423_3462328783437838379_n.jpg" width="40%"/>
+<img src="317637292_682952430162423_3462328783437838379_n.jpg" border-radius="100%" width="40%"/>
 
 <h5>i'm 19 years old student. i can html, css, java script, python, c#</h5>
 
