@@ -93,14 +93,7 @@
   If you find my projects and contributions helpful, please consider supporting me through the following platforms:
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-  </a>
-  <a href="https://www.patreon.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-Patreon-%23141518.svg?&style=for-the-badge&logo=Patreon&logoColor=F96854" alt="Patreon" height="50">
-  </a>
-</p>
+
 
 <p align="center">
   <img src="qrcode.png" alt="Profile Picture" width="300">
