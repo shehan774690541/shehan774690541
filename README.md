@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://your-website-url.com">Official Website</a> |
-  <a href="mailto:your-email@example.com">Email</a> |
-  <a href="tel:+1234567890">Phone</a> |
-  <a href="https://your-portfolio-url.com">Portfolio</a> |
-  <a href="https://your-blog-url.com">Blog</a>
+  <a href="http://gradientstudio.great-site.net/">Official Website</a> |
+  <a href="mailto:alphacephtelebot@gmail.com">Email</a> |
+  <a href="tel:+94774690541">Phone</a> |
+  <a href="http://t.me/+94774690541">telegram</a> |
+  <a href="https://www.youtube.com/@Gradient_Studio">youtube</a>
 </p>
 
 <p align="center">
@@ -67,23 +67,23 @@
 <h2 align="center">Visitor Count</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/shehan774690541/count.svg" alt="Visitor Count">
 </p>
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:alphacephtelebot@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://your-twitter-url.com">
+  <a href="https://twitter.com/shehanrajapaks9?t=9RW27BiEzE8CUuXAbKJ-lA&s=09">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://your-linkedin-url.com">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <a href="http://t.me/+94774690541">
+    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://your-dev.to-url.com">
-    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  <a href="https://www.youtube.com/@Gradient_Studio">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
