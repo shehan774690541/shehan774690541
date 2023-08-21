@@ -25,6 +25,10 @@
 <p align="center">
   HTML | CSS | JavaScript | Python | C# | Git | SQL | React | Node.js
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan774690541&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
 
 <h2 align="center">Projects</h2>
 
