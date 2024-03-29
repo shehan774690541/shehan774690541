@@ -16,9 +16,6 @@
   <a href="https://www.youtube.com/@Gradient_Studio">youtube</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehan774690541" alt="Profile Views">
-</p>
 
 <h2 align="center">Skills</h2>
 
