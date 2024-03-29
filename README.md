@@ -68,6 +68,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan774690541&theme=dark" alt="GitHub Streak">
 </p>
 
+![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shehan774690541&custom_title=Shehan%20Rajapaksha%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 <h2 align="center">Visitor Count</h2>
 
 <p align="center">
