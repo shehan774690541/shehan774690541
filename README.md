@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan774690541&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+<h1 align="center">🏆 GitHub Trophies:</h1>
+    <p align="center"> 
+        <img src="https://github-profile-trophy.vercel.app/?username=shehan774690541&theme=algolia" alt="techdeiyo" />
+    </p>
 
 <h2 align="center">Projects</h2>
 
@@ -104,6 +108,14 @@
 <p align="center">
   <img src="qrcode.png" alt="Profile Picture" width="300">
 </p>
+
+<h2 align="center">Used Languages And Tools</h2>
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=csharp,java,python,vue,angular,javascript,typescript,html,css,arduino,bootstrap,vuetify,github,mysql,nodejs,photoshop,premierepro,vscode,visualstudio,linux,php,desktopapplication,webapp,androidapp,apidevelopment,unity,unreal,blender,docker,mongodb" />
+</p>
+
+
 
 <h2 align="center">License</h2>
 
